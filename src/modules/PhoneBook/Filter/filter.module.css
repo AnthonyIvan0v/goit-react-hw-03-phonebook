@@ -1,0 +1,11 @@
+.label {
+  font-size: 18px;
+  text-align: center;
+}
+.input {
+  height: 30px;
+  width: 120px;
+  border: 1px solid green;
+  border-radius: 5px;
+  margin: 10px 0 10px 10px;
+}
